@@ -206,18 +206,7 @@ async def initiate_bot():
 
 loop.run_until_complete(initiate_bot(foo())
 
-ASSIDS = []
 
-if ASSID1 not in ASSIDS:
-    ASSIDS.append(ASSID1)
-if ASSID2 not in ASSIDS:
-    ASSIDS.append(ASSID2)
-if ASSID3 not in ASSIDS:
-    ASSIDS.append(ASSID3)
-if ASSID4 not in ASSIDS:
-    ASSIDS.append(ASSID4)
-if ASSID5 not in ASSIDS:
-    ASSIDS.append(ASSID5)
 
 
 def init_db():
