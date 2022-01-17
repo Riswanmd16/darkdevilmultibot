@@ -93,4 +93,3 @@ shikhar@MacBook~ $ python3 gen_session.py
 12. `SUPPORT_CHANNEL` : Support Channel Link ( Leave blank if you don't have one)
 13. `ASSISTANT_PREFIX` : Prefix for Assistant Commands
 
-
