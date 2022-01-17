@@ -209,7 +209,7 @@ loop.run_until_complete(initiate_bot(foo())
 
 
 
-def init_db():
+
     global db_mem
     db_mem = {}
 
