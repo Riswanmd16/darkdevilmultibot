@@ -12,8 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/sakhaavavaavaj93/darkdevilmultibot",
-  "stack": "container",
+ 
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
