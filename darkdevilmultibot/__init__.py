@@ -17,7 +17,9 @@ from darkdevilmultibot.Core.Logger.Log import (startup_delete_last, startup_edit
                                    startup_send_new)
 from darkdevilmultibot.Utilities.changers import time_to_seconds
 
-run_until_complete(initiate_bot(foo())
+loop = asyncio.get_event_loop()
+console = Console()
+
 
 ### Modules
 MOD_LOAD = []
@@ -202,7 +204,7 @@ async def initiate_bot():
         await startup_delete_last(initial)
 
 
-loop.run_until_complete(initiate_bot())
+loop.run_until_complete(initiate_bot(foo())
 
 ASSIDS = []
 
