@@ -94,12 +94,3 @@ shikhar@MacBook~ $ python3 gen_session.py
 13. `ASSISTANT_PREFIX` : Prefix for Assistant Commands
 
 
-<h2 align="center">
-   Contact
-</h2>
-
-<p align="center">
-<a href="https://t.me/OfficialYukki"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/NotReallyShikhar"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
-<a href="https://t.me/OfficialYukkiSupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
-</p>
