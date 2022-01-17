@@ -18,7 +18,6 @@ from darkdevilmultibot.Core.Logger.Log import (startup_delete_last, startup_edit
 from darkdevilmultibot.Utilities.changers import time_to_seconds
 
 run_until_complete(initiate_bot(foo())
-console = Console()
 
 ### Modules
 MOD_LOAD = []
