@@ -20,7 +20,6 @@ from darkdevilmultibot.Utilities.changers import time_to_seconds
 loop = asyncio.get_event_loop()
 console = Console()
 
-
 ### Modules
 MOD_LOAD = []
 MOD_NOLOAD = []
@@ -204,14 +203,28 @@ async def initiate_bot():
         await startup_delete_last(initial)
 
 
-loop.run_until_complete(initiate_bot(foo())
+loop.run_until_complete(initiate_bot())
+
+ASSIDS = []
+
+if ASSID1 not in ASSIDS:
+    ASSIDS.append(ASSID1)
+if ASSID2 not in ASSIDS:
+    ASSIDS.append(ASSID2)
+if ASSID3 not in ASSIDS:
+    ASSIDS.append(ASSID3)
+if ASSID4 not in ASSIDS:
+    ASSIDS.append(ASSID4)
+if ASSID5 not in ASSIDS:
+    ASSIDS.append(ASSID5)
 
 
-
-
-
+def init_db():
     global db_mem
     db_mem = {}
 
 
 init_db()
+
+
+
